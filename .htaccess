@@ -1,0 +1,9 @@
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond %{REQUEST_FILENAME}.php -f [NC]
+RewriteRule ^(.*)$ $1.php [L,QSA]
+RewriteCond %{REQUEST_FILENAME}.htm -f [NC]
+RewriteRule ^(.*)$ $1.htm [L,QSA]
+RewriteCond %{REQUEST_FILENAME}.html -f [NC]
+RewriteRule ^(.*)$ $1.html [L,QSA] 
