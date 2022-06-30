@@ -17,7 +17,6 @@
 
 6. Menu Tambah Stok Barang
 ![tambah stok](https://user-images.githubusercontent.com/102129749/176597847-e9e39c84-3869-436e-9317-2699d937905c.PNG)
-es.githubusercontent.com/102129749/176597384-e03de034-324c-4c32-8ce5-6cd6ab241196.PNG)
 
 7. Manajemen User
 ![manajemen user](https://user-images.githubusercontent.com/102129749/176597381-4b95bfed-6f34-4923-b11e-2dc175a7cb37.PNG)
